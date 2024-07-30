@@ -11,6 +11,6 @@ cat = Display the file contents<br>
 rm = remove the perticular file<br>
 espeak = this command is use to speak the entire text that you want to type<br>
 touch = touch command is use to create the file <br>
-cp => cp command is use to copy file to one folder to another folder
-mv = > it is use to remove the file from one folder
+cp => cp command is use to copy file to one folder to another folder<br>
+mv = > it is use to remove the file from one folder<br>
 
