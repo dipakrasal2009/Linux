@@ -13,4 +13,7 @@ espeak = this command is use to speak the entire text that you want to type<br>
 touch = touch command is use to create the file <br>
 cp => cp command is use to copy file to one folder to another folder<br>
 mv = > it is use to remove the file from one folder<br>
+ifconfig => this command is use to display the ip of the machin<br>
+ping =>  this is use to check conectivity of the networks<br>
+mv => this is use to rename the file<br>
 
