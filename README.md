@@ -16,4 +16,6 @@ mv = > it is use to remove the file from one folder<br>
 ifconfig => this command is use to display the ip of the machin<br>
 ping =>  this is use to check conectivity of the networks<br>
 mv => this is use to rename the file<br>
+echo => this command is use to print someting in the screen</br>
+time => it is use to display the current time
 
