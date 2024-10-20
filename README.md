@@ -30,5 +30,5 @@ which   => this command is use to find the file and folder path</br>
 pwd     => this command is use to print the working directory</br>
 exit    => exit command is use to exit the terminal</br>
 jobs    => jobs command is use to check the opeations that run in the background </br>
-
+speedtest-cli => it is use to test the current internet speed that is downloade speed and uploade speed in   MB/ps
 
