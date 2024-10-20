@@ -25,4 +25,10 @@ free -m => this command is use to display the capisaty of memory / RAM</br>
 firefox => Launch the firefox</br>
 gedit   => it is use to launch the editor</br>
 gnome-screenshot => this is use to take the screenshot</br>
+date    => date command is use to print the current date</br>
+which   => this command is use to find the file and folder path</br>
+pwd     => this command is use to print the working directory</br>
+exit    => exit command is use to exit the terminal</br>
+jobs    => jobs command is use to check the opeations that run in the background </br>
+
 
