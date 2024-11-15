@@ -33,3 +33,14 @@ jobs    => jobs command is use to check the opeations that run in the background
 speedtest-cli => it is use to test the current internet speed that is downloade speed and uploade speed in   MB/ps
 su      => it is use to switch the user from one to another
 ctr + alt + f3 ......   =>  this is use to open the black terminal to the another users this function keys gives only the black terminal with proper cli
+chatter =>  it is use to change the attribute
+		+i  => immutable the file
+lsatter => check the attribute of the perticular file
+chmod  => modify the permition
+
+useradd <name_of_User> => crerate the new user
+var/log => this file contains the login info
+
+
+
+
