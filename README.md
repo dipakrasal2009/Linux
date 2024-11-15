@@ -35,6 +35,8 @@ su      => it is use to switch the user from one to another
 ctr + alt + f3 ......   =>  this is use to open the black terminal to the another users this function keys gives only the black terminal with proper cli
 chatter =>  it is use to change the attribute
 		+i  => immutable the file
+		+a  => read only
+		cat >> <file name>  => append the content of the file
 lsatter => check the attribute of the perticular file
 chmod  => modify the permition
 
